@@ -1,0 +1,65 @@
+[33mcommit 5b9d3ee8ea6362fed0cedf0e0c2153cc62fe8a55[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6bf6e63 c7c2dcf
+Author: ChenXD <12334555@qq.com>
+Date:   Sun Jul 19 14:28:59 2020 +0800
+
+    erge branch 'master' of https://github.com/ChenXD-v8/program
+    
+    我闹着玩的
+
+[33mcommit 6bf6e63c4330dad6ad4d027635d9dd22635637ea[m
+Author: ChenXD <12334555@qq.com>
+Date:   Sun Jul 19 14:28:35 2020 +0800
+
+    在本地新建了dev2.txt
+
+[33mcommit c7c2dcfdfbb5eeb49aea86b2357303e36ef6453d[m
+Author: ChenXD-v8 <58134199+ChenXD-v8@users.noreply.github.com>
+Date:   Sun Jul 19 14:27:39 2020 +0800
+
+    在GitHub第二次更新dev,txt
+
+[33mcommit d5c1f78f7d19665bde056ddf331d29224d072ce8[m
+Merge: 6bf0755 d9f1035
+Author: ChenXD <12334555@qq.com>
+Date:   Sun Jul 19 14:23:04 2020 +0800
+
+    解决了冲突
+
+[33mcommit 6bf07551cb3af637e819e5b55e6b1f1c7dcf7d4d[m
+Author: ChenXD <12334555@qq.com>
+Date:   Sun Jul 19 14:21:42 2020 +0800
+
+    重新提交
+
+[33mcommit d9f10359dfa2b17db2fb52a1e830903c4c3d3a76[m
+Author: ChenXD-v8 <58134199+ChenXD-v8@users.noreply.github.com>
+Date:   Sun Jul 19 14:13:48 2020 +0800
+
+    在github 更新dev.txt
+    
+    adadas
+
+[33mcommit f213a84426b581c2c864139ef6476cebecaada7a[m[33m ([m[1;32mdev[m[33m)[m
+Author: ChenXD <12334555@qq.com>
+Date:   Sun Jul 19 14:01:20 2020 +0800
+
+    在dev分支上创建dev.txt
+
+[33mcommit ab0367a3db002cfb30f3752790bb88bb3d47c9b1[m
+Author: ChenXD-v8 <58134199+ChenXD-v8@users.noreply.github.com>
+Date:   Sun Jul 19 13:43:43 2020 +0800
+
+    Create hello.txt
+
+[33mcommit 128982e680602e367d2942a349f703448392c08d[m
+Author: ChenXD <12334555@qq.com>
+Date:   Sun Jul 19 13:39:50 2020 +0800
+
+    新建了index.txt文件
+
+[33mcommit e18d73cde0ddea784e2f5ee3bb95db401896ef5e[m
+Author: chenXD-bug <58134199+chenXD-bug@users.noreply.github.com>
+Date:   Sun Nov 24 10:00:36 2019 +0000
+
+    Initial commit
